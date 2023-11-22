@@ -1,0 +1,5 @@
+pytorch_lightning
+nuScenes-devkit
+spconv-cu113
+easydict
+thop
